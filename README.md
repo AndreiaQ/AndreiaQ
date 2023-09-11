@@ -5,7 +5,7 @@
 
 - 🌱 Estou a agora aprender **essencialmente frontend, backend**
 
-- 📫 How to reach me **anbe9@hotmail.com**
+- 📫 How to reach me **andreia.bm.queiros@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
