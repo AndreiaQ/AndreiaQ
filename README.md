@@ -13,10 +13,7 @@
 
 - ⚡ Fun fact **I really love cooking 👩‍🍳**
 
-<h3 align="left">Connect with me:</h3>
-<p align="right">
-</p>
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?sca_esv=575434990&rlz=1C1YTUH_pt-PTPT1066PT1066&sxsrf=AM9HkKlndQkvIAIFq5BZrvFXb5bHTifEOA:1697888795232&q=girl+coding+gif&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwia54fUiIeCAxV9UKQEHdmgB2kQ0pQJegQIChAB&biw=1536&bih=707&dpr=1.25#imgrc=qQViMd7j3uvKPM">
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/![coding](https://github.com/AndreiaQ/AndreiaQ/assets/81645069/5bba346f-c2dd-4c6d-a97f-343a5d8154b7)
