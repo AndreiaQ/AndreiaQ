@@ -1,7 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Andreia Queirós</h1>
 <h3 align="center">🚀 Software Developer|💡 Lifelong Learner|☕ Coffee Addict</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreiaq&label=Profile%20views&color=0e75b6&style=flat" alt="andreiaq" /> </p>
 
 - 🌱 I’m currently tooking **a Udemy course '100 days of code'**
 
